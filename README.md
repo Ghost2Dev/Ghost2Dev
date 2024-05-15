@@ -15,7 +15,7 @@ Currently, I'm:
 
 Working on some flutter beginners projects [todo, notes, etc...]
 Exploring new flutter packages and practicing Next.js
-[Contributing to open-source project 3]
+
 🌱 What I'm Learning
 I'm always learning and currently focused on:
 
